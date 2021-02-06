@@ -4,6 +4,6 @@ I'm Hayden, a software engineering student who loves coding/math. My primary int
 
 My current biggest focuses are:
 
-- 📱  &nbsp; Building [exire.ai](https://exire.ai)
+- 📱  &nbsp; Building [babb.io](https://babb.io/)
 - 🚀  &nbsp; Space systems research with [CoDe-Lab](http://code-lab.org/)
-- 💻  &nbsp; Organizing hackathons (recently [COVID HealthHack](https://covidhealthhack.com))
+- 💻  &nbsp; Organizing hackathons (recently [Hoboken Climate Hack](https://hobokenclimate.com))
