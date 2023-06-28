@@ -1,5 +1,5 @@
 ## Hello There! 👋
 
-I'm Hayden, a dev interested in systems and compilers. I am currently working on DSLs representing full-stack apps at [Sutro](https://sutro.xyz/) and pursuing a masters in Connective Media (CS/Design/Psych) at Cornell Tech in NYC.
+I'm Hayden, a dev interested in systems and compilers.
 
 For more info, visit [hcdaly.dev](https://hcdaly.dev/).
